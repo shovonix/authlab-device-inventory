@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Demo photo of a damaged laptop">
+<rect width="600" height="400" fill="#2b2d31"/>
+<rect x="90" y="70" width="420" height="250" rx="18" fill="#c9cbd1"/>
+<rect x="104" y="84" width="392" height="222" rx="8" fill="#e6e7ea"/>
+<path d="M300 100 L284 160 L318 190 L296 250 L322 296" fill="none" stroke="#7a7d86" stroke-width="3" stroke-linecap="round"/>
+<path d="M284 160 L250 172 M318 190 L356 182 M296 250 L262 262" fill="none" stroke="#7a7d86" stroke-width="2" stroke-linecap="round"/>
+<rect x="60" y="326" width="480" height="14" rx="7" fill="#9a9da6"/>
+<text x="300" y="372" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#8b8e97">Demo photo</text>
+</svg>

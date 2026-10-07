@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="558" height="1052" viewBox="0 0 558 1052" role="img" aria-label="Example of the About This Mac window">
+<defs>
+<linearGradient id="scr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b88c9"/><stop offset="1" stop-color="#55a8ea"/></linearGradient>
+<linearGradient id="base" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3e3e6"/><stop offset="0.55" stop-color="#b9b9be"/><stop offset="1" stop-color="#8a8a90"/></linearGradient>
+<filter id="blur" x="-30%" y="-90%" width="160%" height="280%"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect x="0.5" y="0.5" width="557" height="1051" rx="26" fill="#1c1c1e" stroke="#3b3b3f"/>
+<circle cx="30" cy="36" r="14" fill="#727275"/><circle cx="76" cy="36" r="14" fill="#353537"/><circle cx="122" cy="36" r="14" fill="#353537"/>
+<rect x="142" y="165" width="272" height="186" rx="9" fill="#0b0b0c" stroke="#5b5b60" stroke-width="1.5"/>
+<rect x="147" y="170" width="262" height="176" rx="3" fill="url(#scr)"/>
+<rect x="263" y="170" width="30" height="7" rx="3" fill="#0b0b0c"/>
+<path d="M106 355 H450 V359 Q450 367 441 367 H115 Q106 367 106 359 Z" fill="url(#base)"/>
+<rect x="246" y="355" width="66" height="4" rx="2" fill="#7a7a80"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+<text x="279" y="517" font-size="42" font-weight="700" fill="#d4d4d6">MacBook Pro</text>
+<text x="279" y="561" font-size="19" fill="#4f5054">16-inch, Nov 2023</text>
+</g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" font-size="22">
+<g text-anchor="end" fill="#e4e4e6"><text x="241" y="634">Chip</text><text x="241" y="670">Memory</text><text x="241" y="706">Startup disk</text><text x="241" y="742">Serial number</text><text x="241" y="778">macOS</text></g>
+<g fill="#8b8c90"><text x="262" y="634">Apple M3 Pro</text><text x="262" y="670">18 GB</text><text x="262" y="706">Macintosh HD</text><text x="262" y="742" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" filter="url(#blur)">K7Q2M9XD4R</text><text x="262" y="778">Tahoe 26.5.2</text></g>
+</g>
+<rect x="186" y="827" width="184" height="46" rx="10" fill="#2a2a2c"/>
+<text x="279" y="859" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#e6e6e8">More Info…</text>
+<g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" font-size="20">
+<text x="279" y="925" fill="#6a6b70" text-decoration="underline">Regulatory Certification</text>
+<text x="279" y="959" fill="#5c5d61">™ and © 1983-2026 Apple Inc.</text>
+<text x="279" y="993" fill="#46474b">All Rights Reserved.</text>
+</g>
+</svg>
